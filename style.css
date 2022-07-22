@@ -98,4 +98,8 @@ body{
     justify-content: center;
     text-align: center;
 }
+audio{
+    width: 150px;
+
+}
 
