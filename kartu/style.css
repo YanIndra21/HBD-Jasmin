@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(228, 228,228);
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+.kartu{
+    width: fit-content;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    transform: translateY(50px);
+    width: 400px;
+    height: 350px;
+}
+.kartu img{
+    width: 600px;
+}
+.teks{
+    width: fit-content;
+    font-size: 15px;
+    font-weight: 100;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    transform: translateY(200px);
+}
+.tombol button{
+    width: 100px;
+    border: 1px solid rgb(146, 146, 146);
+    transform: translate(150px, 250px);
+}
