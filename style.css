@@ -105,7 +105,7 @@ audio{
 }
 a{
     font-size: 15px;
-    font-family: cursive;
+    font-family:cursive;
     color: white;
     position: absolute;
     top: 70%;
@@ -113,5 +113,11 @@ a{
     transform: translate(-70%, -45%);
     justify-content: center;
     text-align: center;
+}
+
+@media  screen and (max-width:480px){
+    a{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
 }
 

@@ -19,9 +19,9 @@ body{
 }
 .teks{
     width: fit-content;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15px;
     font-weight: 100;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     transform: translateY(200px);
 }
